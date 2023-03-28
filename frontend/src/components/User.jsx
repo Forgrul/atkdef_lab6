@@ -1,4 +1,4 @@
 import services from "../services";
 services.user.getAll().then((data) => {
-console.log(data);
+    console.log(data);
 }); 
